@@ -1,4 +1,4 @@
-# Powerlifting
+# Powerlifting- Are women in the IPF getting stronger?
 
 ## Introduction 
 This repo contains a small amount of data analysis that aims to answer if women powerlifters in the IPF are getting stronger. <br></br>
